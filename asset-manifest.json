@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Regulation_Temperature/static/css/main.934554c6.css",
+    "main.js": "/Regulation_Temperature/static/js/main.7b9137d7.js",
+    "index.html": "/Regulation_Temperature/index.html",
+    "main.934554c6.css.map": "/Regulation_Temperature/static/css/main.934554c6.css.map",
+    "main.7b9137d7.js.map": "/Regulation_Temperature/static/js/main.7b9137d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934554c6.css",
+    "static/js/main.7b9137d7.js"
+  ]
+}
